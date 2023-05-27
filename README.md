@@ -29,7 +29,7 @@ These scripts assume some familiarity with basic linear algebra and coordinate s
 This script brings together links and short descriptions of the content in the recommended order of use.
 
 ## ##
-**Coordinate_System_Transformations.mlx** [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=RoboticManipulators.prj&file=Coordinate_System_Transformations.mlx)
+**Coordinate_System_Transformations.mlx** [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=Robotic-Manipulators.prj&file=Coordinate_System_Transformations.mlx)
 
 A script that introduces the fundamental mathematics behind robotic movement.
 
@@ -41,7 +41,7 @@ A script that introduces the fundamental mathematics behind robotic movement.
 - Apply transformation matrices to move between coordinate frames
 
 ## ##
-**DH_Parameters.mlx** [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=RoboticManipulators.prj&file=DH_Parameters.mlx)
+**DH_Parameters.mlx** [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=Robotic-Manipulators.prj&file=DH_Parameters.mlx)
 
 A script that introduces widely used parameters in mechanical engineering to attach coordinate frames to rigid bodies.
 
@@ -71,7 +71,7 @@ The license for this module is available in the [LICENSE.md](license.md) file in
 ## Support ##
 Please contact the <a href="mailto:onlineteaching@mathworks.com">MathWorks online teaching team.</a> If you are having technical issues using MATLAB, please contact our [Technical Support Team](https://www.mathworks.com/support/contact_us.html). 
 
-## Credits ##
+## Acknowledgements ##
 A special thanks to Dhruv Chandel and Jennifer Gago Munoz (both of The MathWorks, Inc.) for developing the core content used to build these interactive educational robotics modules. 
 
 # #
