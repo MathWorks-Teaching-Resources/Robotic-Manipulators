@@ -87,7 +87,7 @@ The suggested prework detailed below is a complementary interactive online cours
 MATLAB&reg;, Robotics System Toolbox&trade;, Simulink&reg;, Simscape&trade;, ​Simscape Multibody&trade;
 
 ## License ##
-The license for this module is available in the [LICENSE.md](license.md) file in this GitHub repository.
+The license for this module is available in the [LICENSE.md](LICENSE.md) file in this GitHub repository.
 
 ## Educator Resources ##
 * [Teaching Robotics with MATLAB and Simulink](https://www.mathworks.com/campaigns/offers/next/teaching-robotics.html)
