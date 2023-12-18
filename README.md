@@ -60,25 +60,25 @@ Ensure you have all the required products ([listed below](#H_E850B4FF)) installe
 ## [**CoordinateSystemTransformations.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=RoboticManipulators.prj&file=CoordinateSystemTransformations.mlx)
 |  | **In this script, students will...** | **Academic disciplines**  |
 | :-- | :-- | :-- |
-| <img src="Images/image_3.png" width="171" alt="image_3.png"> |<br> • Explore the importance of coordinate frames<br> • Learn the utility of translation and rotation matrices<br> • Apply transformation matrices to move between coordinate frames |<br> • Mechanical Engineering<br> • Electrical Engineering<br> • Mathematics  |
+| <img src="Images/image_3.png" width="171" alt="image_3.png"> | <br>• Explore the importance of coordinate frames <br>• Learn the utility of translation and rotation matrices <br>• Apply transformation matrices to move between coordinate frames | <br>• Mechanical Engineering <br>• Electrical Engineering <br>• Mathematics  |
 
 <a name="H_17056DF7"></a>
 ## [**DHParameters.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=RoboticManipulators.prj&file=DHParameters.mlx)
 |  | **In this script, students will...** | **Academic disciplines**  |
 | :-- | :-- | :-- |
-| <img src="Images/image_4.png" width="171" alt="image_4.png"> |<br>  • Acquire knowledge of DH Parameters<br> • Create a transformation matrix with DH parameters<br> • Construct a robot frame with DH parameters |<br>  • Mechanical Engineering<br> • Electrical Engineering<br> • Mathematics  |
+| <img src="Images/image_4.png" width="171" alt="image_4.png"> | <br>• Acquire knowledge of Standard and Modified DH Parameters <br>• Create a transformation matrix with DH parameters <br>• Construct a robot frame with DH parameters | <br>• Mechanical Engineering <br>• Electrical Engineering <br>• Mathematics  |
 
 <a name="H_93FB3755"></a>
 ## [**ForwardKinematics.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=RoboticManipulators.prj&file=ForwardKinematics.mlx)
 |  | **In this script, students will...** | **Academic disciplines**  |
 | :-- | :-- | :-- |
-| <img src="Images/image_5.png" width="171" alt="image_5.png"> |<br> • Perform forward kinematics using DH parameters<br> • Modify joint angles to visualize a robot's movement<br> • Practice unbounded trajectory planning for a simulated robot |<br>  • Mechanical Engineering<br> • Electrical Engineering<br> • Mathematics  |
+| <img src="Images/image_5.png" width="171" alt="image_5.png"> | <br>• Perform forward kinematics using DH parameters <br>• Modify joint angles to visualize a robot's movement <br>• Practice unbounded trajectory planning for a simulated robot | <br>• Mechanical Engineering <br>• Electrical Engineering <br>• Mathematics  |
 
 <a name="H_D4F9A4D1"></a>
 ## [**InverseKinematics.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=RoboticManipulators.prj&file=InverseKinematics.mlx)
 |  | **In this script, students will...** | **Academic disciplines**  |
 | :-- | :-- | :-- |
-| <img src="Images/image_6.png" width="171" alt="image_6.png"> |<br> • Learn the limitations of inverse kinematics approaches<br> • Visualize an inverse kinematic solution for a 6DOF robot<br> • Practice trajectory planning with constraints for a simulated robot |<br>  • Mechanical Engineering<br> • Electrical Engineering<br> • Mathematics  |
+| <img src="Images/image_6.png" width="171" alt="image_6.png"> | <br>• Learn the limitations of inverse kinematics approaches <br>• Visualize an inverse kinematic solution for a 6DOF robot <br>• Practice trajectory planning with constraints for a simulated robot | <br>• Mechanical Engineering <br>• Electrical Engineering <br>• Mathematics  |
 
 <a name="H_F61733D7"></a>
 # License
@@ -87,6 +87,16 @@ The license for this module is available in the [LICENSE.md](https://github.com/
 
 <a name="H_3DE08377"></a>
 # Related Courseware Modules
+<a name="H_868F5748"></a>
+## [Applied Linear Algebra: Robotics](https://www.mathworks.com/matlabcentral/fileexchange/136364-applied-linear-algebra)
+| <img src="Images/image_7.png" width="171" alt="image_7.png"> | **Available on:** <br>[<img src="Images/OpenInFX.png" width="91" alt="OpenInFX.png">](https://www.mathworks.com/matlabcentral/fileexchange/136364-applied-linear-algebra) <br>[<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj) <br>[GitHub](https://github.com/MathWorks-Teaching-Resources/Applied-Linear-Algebra)   |
+| :-- | :-- |
+
+<a name="H_24A492A6"></a>
+## [Virtual Hardware and Labs for Controls](https://www.mathworks.com/matlabcentral/fileexchange/100064-virtual-hardware-and-labs-for-controls?s_tid=srchtitle)
+| <img src="Images/image_10.png" width="171" alt="image_10.png"> | **Available on:** <br>[<img src="Images/OpenInFX.png" width="91" alt="OpenInFX.png">](https://www.mathworks.com/matlabcentral/fileexchange/100064-virtual-hardware-and-labs-for-controls?s_tid=srchtitle) <br>[<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Virtual-Controls-Laboratory&project=VirtualControlsLaboratory.prj) <br>[GitHub](https://github.com/MathWorks-Teaching-Resources/Virtual-Controls-Laboratory)  |
+| :-- | :-- |
+
 
 Feel free to explore our other [modular courseware content](https://www.mathworks.com/matlabcentral/fileexchange/?q=tag%3A%22courseware+module%22&sort=downloads_desc_30d).
 
