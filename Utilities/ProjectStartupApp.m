@@ -132,7 +132,7 @@ classdef ProjectStartupApp < matlab.apps.AppBase
                 Request.Header    = HeaderField("X-GitHub-Api-Version","2022-11-28");
                 Request.Header(2) = HeaderField("Accept","application/vnd.github+json");
                 [Answer,~,~] = send(Request,Address);
-                websave(fullfile("Utilities/SurveyLinks.mat"),Answer.Body.Data.download_url)
+                websave(fullfile("Utilities/SurveyLinks.mat"),Answer.Body.Data.download_url);
             catch
             end
 
@@ -286,7 +286,7 @@ classdef ProjectStartupApp < matlab.apps.AppBase
             app.Q1.FontSize = 18;
             app.Q1.FontWeight = 'bold';
             app.Q1.Position = [16 141 245 69];
-            app.Q1.Text = 'What describe you best?';
+            app.Q1.Text = 'What describes you best?';
 
             % Create FacultyButton
             app.FacultyButton = uibutton(app.TabReview, 'push');
