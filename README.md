@@ -104,6 +104,12 @@ Feel free to explore our other [modular courseware content](https://www.mathwork
 # Educator Resources
 -  [Educator Page](https://www.mathworks.com/academia/educators.html) 
 <a name="H_F10FBF7B"></a>
+
+<a name="H_F10FBF7B"></a>
+# Acknowledgments
+
+A special thanks to Dhruv Chandel and Jennifer Gago Munoz (both of The MathWorks, Inc.) for developing the core content used to build these interactive educational robotics modules.
+
 <a name="H_0FA5DA18"></a>
 # Contribute 
 
