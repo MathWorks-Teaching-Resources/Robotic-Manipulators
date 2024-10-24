@@ -49,7 +49,7 @@ Ensure you have all the required products ([listed below](#H_E850B4FF)) installe
 <a name="H_E850B4FF"></a>
 ## Products
 
- *MATLAB* is used throughout. Tools from Robotics System Toolbox™, Simulink®, Simscape™, and Simscape Multibody™ are used frequently as well. Statistics and Machine Learning Toolbox™ is used specifically for the [range](https://www.mathworks.com/help/releases/R2024b/stats/range.html?overload=range+false) function.
+ *MATLAB* is used throughout. Tools from Robotics System Toolbox™, Simulink®, Simscape™, and Simscape Multibody™ are used frequently as well. Statistics and Machine Learning Toolbox™ is used specifically for the [range](https://www.mathworks.com/help/releases/R2024b/stats/range.html?overload=range+false) function. Image Processing Toolbox™ is used specifically for the [padarray](https://www.mathworks.com/help/images/ref/padarray.html) function.
 
 <a name="H_E8C62B23"></a>
 # Scripts
