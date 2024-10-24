@@ -3,7 +3,7 @@
 # <span style="color:rgb(213,80,0)">Robotic Manipulators</span>
 <a name="H_053613DF"></a>
 
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/130124-robotic-manipulators) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=RoboticManipulators.prj&file=README.mlx)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/130124-robotic-manipulators) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=RoboticManipulators.prj)
 
 ![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMathWorks-Teaching-Resources%2FRobotic-Manipulators%2Frelease%2FImages%2FTestedWith.json)
 
@@ -104,12 +104,6 @@ Feel free to explore our other [modular courseware content](https://www.mathwork
 # Educator Resources
 -  [Educator Page](https://www.mathworks.com/academia/educators.html) 
 <a name="H_F10FBF7B"></a>
-
-<a name="H_F10FBF7B"></a>
-# Acknowledgments
-
-A special thanks to Dhruv Chandel and Jennifer Gago Munoz (both of The MathWorks, Inc.) for developing the core content used to build these interactive educational robotics modules.
-
 <a name="H_0FA5DA18"></a>
 # Contribute 
 
