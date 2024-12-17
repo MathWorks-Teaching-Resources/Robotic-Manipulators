@@ -109,6 +109,10 @@ Feel free to explore our other [modular courseware content](https://www.mathwork
 
 Looking for more? Find an issue? Have a suggestion? Please contact the [MathWorks teaching resources team](mailto:%20onlineteaching@mathworks.com). If you want to contribute directly to this project, you can find information about how to do so in the [CONTRIBUTING.md](https://github.com/MathWorks-Teaching-Resources/Robotic-Manipulators/blob/release/CONTRIBUTING.md) page on GitHub.
 
+# Credits
+
+A special thanks to Dhruv Chandel and Jennifer Gago Munoz (both of The MathWorks, Inc.) for developing the core content used to build these interactive educational robotics modules.
+
 
  *©* Copyright 2023 The MathWorks™, Inc
 
