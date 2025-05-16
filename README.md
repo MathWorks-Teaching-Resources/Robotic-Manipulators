@@ -20,6 +20,7 @@ This curriculum module contains interactive [MATLAB® live scripts](https://www.
 
 You can use these live scripts as demonstrations in lectures, class activities, or interactive assignments outside class. Robotic manipulators covers topics such as point translations/rotations, transformation matrices, DH parameters, forward kinematics, and inverse kinematics.
 
+Theses scripts use two robots throughout, the PUMA560 and the Kinova JACO J2S6S300. There is an alternate set of scripts that strictly use the Universal Robots UR10e in the examples and calculations. You can find these alternate scripts [here](https://github.com/MathWorks-Teaching-Resources/Robotic-Manipulators/tree/release/Data/UniversalRobots).
 
 The instructions inside the live scripts will guide you through the exercises and activities. Get started with each live script by running it one section at a time. To stop running the script or a section midway (for example, when an animation is in progress), use the <img src="Images/EndIcon.png" width="19" alt="EndIcon.png"> Stop button in the **RUN** section of the **Live Editor** tab in the MATLAB Toolstrip.
 
