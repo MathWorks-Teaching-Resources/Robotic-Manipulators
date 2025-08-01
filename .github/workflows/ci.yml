@@ -21,6 +21,8 @@ jobs:
       matrix:
         MATLABVersion: [R2024a,R2024b,R2025a]
     runs-on: ubuntu-latest
+    env:
+      LD_PRELOAD: /usr/lib/x86_64-linux-gnu/libstdc++.so.6
     steps:
       # Checks-out your repository
       - uses: actions/checkout@v4
