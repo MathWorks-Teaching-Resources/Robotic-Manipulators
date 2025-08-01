@@ -19,7 +19,7 @@ jobs:
     strategy: 
       fail-fast: false
       matrix:
-        MATLABVersion: [R2024a,R2024b]
+        MATLABVersion: [R2024a,R2024b,R2025a]
     runs-on: ubuntu-latest
     steps:
       # Checks-out your repository
