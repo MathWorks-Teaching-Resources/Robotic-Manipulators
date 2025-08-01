@@ -115,7 +115,11 @@ classdef SolnSmokeTests < matlab.unittest.TestCase
             % Close all figures and Simulink models
             close all force
             if any(matlab.addons.installedAddons().Name == "Simulink")
+                try
                 bdclose all
+                catch
+                    disp("bdclose all is failing")
+                end
             end
 
             % Rethrow error if any

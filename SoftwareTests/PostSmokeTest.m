@@ -51,7 +51,7 @@ if all(Passed)
     Badge.message = join("R"+Version," | ");
 elseif any(Passed)
     Badge.color = "yellowgreen";
-    Badge.message = join("R"+Version," | ")
+    Badge.message = join("R"+Version(Passed)," | ");
 elseif all(~Passed)
     Badge.color = "critical";
     Badge.message = join("R"+Version," | ");
