@@ -14,7 +14,31 @@ permissions:
   pages: write
   id-token: write
 
+
+
 jobs:
+  debug:
+    runs-on: ubuntu-latest
+    env:
+      LD_PRELOAD: /usr/lib/x86_64-linux-gnu/libstdc++.so.6
+    steps:
+      - uses: actions/checkout@v4
+      - name: Start display server
+        if: ${{ always() }}
+        run: |
+          sudo apt-get install xvfb
+          Xvfb :99 &
+          echo "DISPLAY=:99" >> $GITHUB_ENV
+      - name: Setup MATLAB
+        uses: matlab-actions/setup-matlab@v2
+        with:
+          release: R2025a
+          products: MATLAB Simulink Robotics_System_Toolbox Simscape_Multibody Statistics_and_Machine_Learning_Toolbox Image_Processing_Toolbox
+      - name: Run SmokeTests
+        uses: matlab-actions/run-command@v2
+        with:
+          command: openProject(pwd); sim("Models/ManipulatorTrajectoryPlanningRandomized.slx","StopTime","5");
+
   test:
     strategy: 
       fail-fast: false
