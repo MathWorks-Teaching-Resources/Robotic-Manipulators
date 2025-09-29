@@ -3,7 +3,7 @@
 # <span style="color:rgb(213,80,0)">Robotic Manipulators</span>
 <a name="H_053613DF"></a>
 
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/130124-robotic-manipulators) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=RoboticManipulators.prj)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/130124-robotic-manipulators) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=RoboticManipulators.prj&file=README.mlx)
 
 ![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMathWorks-Teaching-Resources%2FRobotic-Manipulators%2Frelease%2FImages%2FTestedWith.json)
 
@@ -26,7 +26,7 @@ The instructions inside the live scripts will guide you through the exercises an
 
 ## Contact Us
 
-Solutions are available upon instructor request. Contact the [MathWorks teaching resources team](mailto:onlineteaching@mathworks.com) if you would like to request solutions, provide feedback, or if you have a question.
+Contact the [MathWorks Educator Content Development Team](mailto:onlineteaching@mathworks.com) if you would like to provide feedback, or if you have a question.
 
 <a name="H_30BC7141"></a>
 ## Prerequisites
@@ -55,28 +55,26 @@ Ensure you have all the required products ([listed below](#H_E850B4FF)) installe
 <a name="H_E8C62B23"></a>
 # Scripts
 
- *If you are viewing this in a version of MATLAB prior to R2023b, you can view the learning outcomes for each script* [*here*](https://www.mathworks.com/matlabcentral/fileexchange/130124-robotic-manipulators)
-
 <a name="H_BC8955C0"></a>
-## [**CoordinateSystemTransformations.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=RoboticManipulators.prj&file=CoordinateSystemTransformations.mlx)
+## [**CoordinateSystemTransformations.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=RoboticManipulators.prj&file=Scripts/CoordinateSystemTransformations.mlx)
 |  | **In this script, students will...** | **Academic disciplines**  |
 | :-- | :-- | :-- |
 | <img src="Images/image_3.png" width="171" alt="image_3.png"> | <br>• Explore the importance of coordinate frames <br>• Learn the utility of translation and rotation matrices <br>• Apply transformation matrices to move between coordinate frames | <br>• Mechanical Engineering <br>• Electrical Engineering <br>• Mathematics  |
 
 <a name="H_17056DF7"></a>
-## [**DHParameters.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=RoboticManipulators.prj&file=DHParameters.mlx)
+## [**DHParameters.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=RoboticManipulators.prj&file=Scripts/DHParameters.mlx)
 |  | **In this script, students will...** | **Academic disciplines**  |
 | :-- | :-- | :-- |
 | <img src="Images/image_4.png" width="171" alt="image_4.png"> | <br>• Acquire knowledge of Standard and Modified DH Parameters <br>• Create a transformation matrix with DH parameters <br>• Construct a robot frame with DH parameters | <br>• Mechanical Engineering <br>• Electrical Engineering <br>• Mathematics  |
 
 <a name="H_93FB3755"></a>
-## [**ForwardKinematics.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=RoboticManipulators.prj&file=ForwardKinematics.mlx)
+## [**ForwardKinematics.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=RoboticManipulators.prj&file=Scripts/ForwardKinematics.mlx)
 |  | **In this script, students will...** | **Academic disciplines**  |
 | :-- | :-- | :-- |
 | <img src="Images/image_5.png" width="171" alt="image_5.png"> | <br>• Perform forward kinematics using DH parameters <br>• Modify joint angles to visualize a robot's movement <br>• Practice unbounded trajectory planning for a simulated robot | <br>• Mechanical Engineering <br>• Electrical Engineering <br>• Mathematics  |
 
 <a name="H_D4F9A4D1"></a>
-## [**InverseKinematics.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=RoboticManipulators.prj&file=InverseKinematics.mlx)
+## [**InverseKinematics.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=RoboticManipulators.prj&file=Scripts/InverseKinematics.mlx)
 |  | **In this script, students will...** | **Academic disciplines**  |
 | :-- | :-- | :-- |
 | <img src="Images/image_6.png" width="171" alt="image_6.png"> | <br>• Learn the limitations of inverse kinematics approaches <br>• Visualize an inverse kinematic solution for a 6DOF robot <br>• Practice trajectory planning with constraints for a simulated robot | <br>• Mechanical Engineering <br>• Electrical Engineering <br>• Mathematics  |
@@ -108,14 +106,15 @@ Feel free to explore our other [modular courseware content](https://www.mathwork
 <a name="H_0FA5DA18"></a>
 # Contribute 
 
-Looking for more? Find an issue? Have a suggestion? Please contact the [MathWorks teaching resources team](mailto:%20onlineteaching@mathworks.com). If you want to contribute directly to this project, you can find information about how to do so in the [CONTRIBUTING.md](https://github.com/MathWorks-Teaching-Resources/Robotic-Manipulators/blob/release/CONTRIBUTING.md) page on GitHub.
+Looking for more? Find an issue? Have a suggestion? Please contact the [MathWorks Educator Content Development Team](mailto:%20onlineteaching@mathworks.com). If you want to contribute directly to this project, you can find information about how to do so in the [CONTRIBUTING.md](https://github.com/MathWorks-Teaching-Resources/Robotic-Manipulators/blob/release/CONTRIBUTING.md) page on GitHub.
 
 # Credits
 
 A special thanks to Dhruv Chandel and Jennifer Gago Munoz (both of The MathWorks, Inc.) for developing the core content used to build these interactive educational robotics modules.
 
 
- *©* Copyright 2023 The MathWorks™, Inc
+ *©* Copyright 2025 The MathWorks, Inc
+
 
 
 
