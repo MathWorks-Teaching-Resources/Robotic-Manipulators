@@ -47,7 +47,6 @@ jobs:
         uses: matlab-actions/run-command@v2
         with:
           command: openProject(pwd); RunAllTests; 
-          startup-options: -nodisplay
 
       # Upload the test results as artifact
       - name: Upload TestResults
