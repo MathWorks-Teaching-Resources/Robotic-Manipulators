@@ -6,7 +6,7 @@ releaseInfo = matlabRelease;
 
 if releaseInfo.Release == "R2025b"
     open_system = @(str)MyOpen(str);
-    sim = @(str,str1,num)MySim(str,str2,num);
+    sim = @(str,str1,num)MySim(str,str1,num);
 end
 
 function MyOpen(str)
