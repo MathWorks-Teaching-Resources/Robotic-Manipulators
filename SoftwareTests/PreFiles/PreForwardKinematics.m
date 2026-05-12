@@ -2,5 +2,6 @@
 % ---- Known Issues     -----
 KnownIssuesID = "";
 % ---- Pre-run commands -----
- 
-open_system = @(x) disp("... Opening "+x);
+
+open_system = @(x) disp("open simulink for test");
+sim = @(y) disp("run simulink for test");
