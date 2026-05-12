@@ -1,15 +1,9 @@
 %  Pre-run script for ForwardKinematicsSoln.mlx
 % ---- Known Issues     -----
-KnownIssuesID = "MATLAB:TooManyInputs";
+KnownIssuesID = "";
 % ---- Pre-run commands -----
-<<<<<<< Updated upstream
 
-
-open_system = @(x) disp("open simulink for test");
-sim = @(y,z,p) disp("run simulink for test");
-=======
- 
-releaseInfo = matlabRelease;
+ releaseInfo = matlabRelease;
 
 if releaseInfo.Release == "R2025b"
     open_system = @(str)MyOpen(str);
@@ -23,6 +17,4 @@ end
 
 function MySim(str)
 disp("Simulating the system " + str);
-% Add simulation logic here
 end
->>>>>>> Stashed changes
