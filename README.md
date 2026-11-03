@@ -3,7 +3,7 @@
 # <span style="color:rgb(213,80,0)">Robotic Manipulators</span>
 <a name="H_053613DF"></a>
 
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/130124-robotic-manipulators) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=RoboticManipulators.prj&file=README.mlx)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/130124-robotic-manipulators) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=RoboticManipulators.prj&file=README.m)
 
 [![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https://mathworks-teaching-resources.github.io/Robotic-Manipulators/TestedWith.json)](https://MathWorks-Teaching-Resources.github.io/Robotic-Manipulators)
 
@@ -35,6 +35,9 @@ This module assumes knowledge of basic linear algebra and coordinate systems. Th
 
 <a name="H_330E72C3"></a>
 ## Getting Started
+
+For MATLAB R2024b or older, download the [legacy MLX version](https://github.com/MathWorks-Teaching-Resources/Robotic-Manipulators/releases/tag/mlx).
+
 ### Accessing the Module
 ### **On MATLAB Online:**
 
@@ -56,25 +59,25 @@ Ensure you have all the required products ([listed below](#H_E850B4FF)) installe
 # Scripts
 
 <a name="H_BC8955C0"></a>
-## [**CoordinateSystemTransformations.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=RoboticManipulators.prj&file=Scripts/CoordinateSystemTransformations.mlx)
+## [**CoordinateSystemTransformations.m**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=RoboticManipulators.prj&file=Scripts/CoordinateSystemTransformations.m)
 |  | **In this script, students will...** | **Academic disciplines**  |
 | :-- | :-- | :-- |
 | <img src="Images/image_3.png" width="171" alt="image_3.png"> | <br>• Explore the importance of coordinate frames <br>• Learn the utility of translation and rotation matrices <br>• Apply transformation matrices to move between coordinate frames | <br>• Mechanical Engineering <br>• Electrical Engineering <br>• Mathematics  |
 
 <a name="H_17056DF7"></a>
-## [**DHParameters.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=RoboticManipulators.prj&file=Scripts/DHParameters.mlx)
+## [**DHParameters.m**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=RoboticManipulators.prj&file=Scripts/DHParameters.m)
 |  | **In this script, students will...** | **Academic disciplines**  |
 | :-- | :-- | :-- |
 | <img src="Images/image_4.png" width="171" alt="image_4.png"> | <br>• Acquire knowledge of Standard and Modified DH Parameters <br>• Create a transformation matrix with DH parameters <br>• Construct a robot frame with DH parameters | <br>• Mechanical Engineering <br>• Electrical Engineering <br>• Mathematics  |
 
 <a name="H_93FB3755"></a>
-## [**ForwardKinematics.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=RoboticManipulators.prj&file=Scripts/ForwardKinematics.mlx)
+## [**ForwardKinematics.m**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=RoboticManipulators.prj&file=Scripts/ForwardKinematics.m)
 |  | **In this script, students will...** | **Academic disciplines**  |
 | :-- | :-- | :-- |
 | <img src="Images/image_5.png" width="171" alt="image_5.png"> | <br>• Perform forward kinematics using DH parameters <br>• Modify joint angles to visualize a robot's movement <br>• Practice unbounded trajectory planning for a simulated robot | <br>• Mechanical Engineering <br>• Electrical Engineering <br>• Mathematics  |
 
 <a name="H_D4F9A4D1"></a>
-## [**InverseKinematics.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=RoboticManipulators.prj&file=Scripts/InverseKinematics.mlx)
+## [**InverseKinematics.m**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Robotic-Manipulators&project=RoboticManipulators.prj&file=Scripts/InverseKinematics.m)
 |  | **In this script, students will...** | **Academic disciplines**  |
 | :-- | :-- | :-- |
 | <img src="Images/image_6.png" width="171" alt="image_6.png"> | <br>• Learn the limitations of inverse kinematics approaches <br>• Visualize an inverse kinematic solution for a 6DOF robot <br>• Practice trajectory planning with constraints for a simulated robot | <br>• Mechanical Engineering <br>• Electrical Engineering <br>• Mathematics  |

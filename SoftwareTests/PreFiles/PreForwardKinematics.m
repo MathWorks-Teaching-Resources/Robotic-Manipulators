@@ -1,4 +1,4 @@
-%  Pre-run script for ForwardKinematics.mlx
+%  Pre-run script for ForwardKinematics.m
 % ---- Known Issues     -----
 KnownIssuesID = "";
 % ---- Pre-run commands -----
@@ -8,6 +8,7 @@ if releaseInfo.Release == "R2025b"
     open_system = @(str)MyOpen(str);
     sim = @(str,str1,num)MySim(str,str1,num);
 end
+% <matlab:ShareFeedback Share your feedback>
 
 function MyOpen(str)
 assert(exist(str,"file"))
