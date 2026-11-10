@@ -445,8 +445,8 @@ hold off
 %[text]  <u>**General:**</u>
 %[text] - [Robotics Education with MATLAB and Simulink](https://www.mathworks.com/solutions/electrical-computer-engineering/robotics.html)
 %[text] - [Library of Robot Models for Simulation](https://www.mathworks.com/matlabcentral/fileexchange/98714-robotics-system-toolbox-robot-library-data)
-%[text] - [Modified DH Parameters UR](file:..\\Supplements\\ModifiedDHParametersUR.m)
-%[text] - [Geometric Method UR](file:..\\Supplements\\GeometricApproachUR.m) \
+%[text] - [Modified DH Parameters UR](file:../Supplements/ModifiedDHParametersUR.m)
+%[text] - [Geometric Method UR](file:../Supplements/GeometricApproachUR.m) \
 %[text]  <u>**Specific:**</u>
 %[text] - [Trajectory Planning for Robotic Manipulators](https://blogs.mathworks.com/student-lounge/2019/11/06/robot-manipulator-trajectory/)
 %[text] - [Pick-and-Place Workflow Using Stateflow for MATLAB](https://www.mathworks.com/help/robotics/ug/pick-and-place-workflow-using-stateflow.html)
